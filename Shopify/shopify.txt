@@ -1,0 +1,20 @@
+url:: development.brstdev.com/laravelsarav/public/login
+
+DB-url:: http://192.168.1.30:888/phpmyadmin/index.php
+DB_DATABASE=laravelsarav1_db
+DB_USERNAME=laravelsarav1_usr
+DB_PASSWORD=zX2hX3KeMWi7r6jH
+
+
+
+
+Stripe Account:
+mailto:brstdev32@gmail.com
+D3B3loP3R9B1
+
+
+
+
+Partner account details:
+mailto:tbiinfotech@gmail.com
+TBIR/&43wZcJ981
